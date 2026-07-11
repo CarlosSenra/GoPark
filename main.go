@@ -1,7 +1,17 @@
-package gopark
+package main
 
-import "fmt"
+import (
+	"fmt"
+	"modulo/core"
+)
 
 func main() {
-	fmt.Println("Hello, GoPark!")
+	sites := core.LerSitesDeArquivoTxt("sites.txt")
+	// sites := []string{"https://www.google.com.br", "https://www.youtube.com.br", "https://www.facebook.com.br"}
+	for {
+		core.MostrarMenu()
+		var opcao int
+		fmt.Scan(&opcao)
+		core.SelecionarOpcaoMenu(opcao, sites)
+	}
 }
