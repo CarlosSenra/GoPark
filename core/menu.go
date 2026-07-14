@@ -16,9 +16,9 @@ func SelecionarOpcaoMenu(opcao int, sites []string) {
 
 	switch opcaoSelecionada {
 	case 1:
-		InciarMonitoramento(sites, monitoramentos, delay)
+		InciarMonitoramento(sites, monitoramentos, delay, "logs.txt")
 	case 2:
-		ExibirLogs()
+		ExibirLogs("logs.txt")
 	case 0:
 		println("Saindo do programa...")
 		os.Exit(0)

@@ -1,0 +1,30 @@
+14/07/2026 15:02:09 - Resposta do site https://www.google.com.br: 200 OK
+14/07/2026 15:02:08 - Testando site https://www.google.com.br
+14/07/2026 15:02:10 - Resposta do site https://www.facebook.com: 200 OK
+14/07/2026 15:02:09 - Testando site https://www.facebook.com
+14/07/2026 15:02:10 - Resposta do site https://www.youtube.com: 200 OK
+14/07/2026 15:02:10 - Testando site https://www.youtube.com
+14/07/2026 15:02:15 - Resposta do site https://www.google.com.br: 200 OK
+14/07/2026 15:02:15 - Testando site https://www.google.com.br
+14/07/2026 15:02:16 - Resposta do site https://www.facebook.com: 200 OK
+14/07/2026 15:02:15 - Testando site https://www.facebook.com
+14/07/2026 15:02:16 - Resposta do site https://www.youtube.com: 200 OK
+14/07/2026 15:02:16 - Testando site https://www.youtube.com
+14/07/2026 15:02:21 - Resposta do site https://www.google.com.br: 200 OK
+14/07/2026 15:02:21 - Testando site https://www.google.com.br
+14/07/2026 15:02:21 - Resposta do site https://www.facebook.com: 200 OK
+14/07/2026 15:02:21 - Testando site https://www.facebook.com
+14/07/2026 15:02:21 - Resposta do site https://www.youtube.com: 200 OK
+14/07/2026 15:02:21 - Testando site https://www.youtube.com
+14/07/2026 15:02:27 - Resposta do site https://www.google.com.br: 200 OK
+14/07/2026 15:02:26 - Testando site https://www.google.com.br
+14/07/2026 15:02:27 - Resposta do site https://www.facebook.com: 200 OK
+14/07/2026 15:02:27 - Testando site https://www.facebook.com
+14/07/2026 15:02:27 - Resposta do site https://www.youtube.com: 200 OK
+14/07/2026 15:02:27 - Testando site https://www.youtube.com
+14/07/2026 15:02:32 - Resposta do site https://www.google.com.br: 200 OK
+14/07/2026 15:02:32 - Testando site https://www.google.com.br
+14/07/2026 15:02:33 - Resposta do site https://www.facebook.com: 200 OK
+14/07/2026 15:02:32 - Testando site https://www.facebook.com
+14/07/2026 15:02:33 - Resposta do site https://www.youtube.com: 200 OK
+14/07/2026 15:02:33 - Testando site https://www.youtube.com
